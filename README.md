@@ -1,10 +1,9 @@
 
-<div align="center">
-  ![Banner](https://i.ibb.co.com/tT3c1S42/Banner.png)
-  
-  # 🌟 Sudipta Roy Ballave | Web Developer
-</div>
 
+![Banner](https://i.ibb.co.com/tT3c1S42/Banner.png)
+  
+# 🌟 Sudipta Roy Ballave | Web Developer
+  
 ## 👋 About Me
 Hi! I'm **Sudipta Roy Ballave**, a passionate **Web Developer** from Bangladesh. I have a strong background in the **MERN stack** and am currently learning **Next.js** to build high-performance applications. I love solving problems, optimizing code, and creating seamless user experiences.
 
