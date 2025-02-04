@@ -1,11 +1,7 @@
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SudiptaRoy05&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SudiptaRoy05&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+
+![Banner](https://i.ibb.co.com/tT3c1S42/Banner.png)
 
 # 🌟 Sudipta Roy Ballave | Web Developer
-
-![Banner](https://i.ibb.co/com/tT3c1S42/Banner.png)
 
 ## 👋 About Me
 Hi! I'm **Sudipta Roy Ballave**, a passionate **Web Developer** from Bangladesh. I have a strong background in the **MERN stack** and am currently learning **Next.js** to build high-performance applications. I love solving problems, optimizing code, and creating seamless user experiences.
@@ -41,7 +37,6 @@ Hi! I'm **Sudipta Roy Ballave**, a passionate **Web Developer** from Bangladesh.
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ballave.sudipta)
 
 ## 📊 GitHub Stats
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SudiptaRoy05&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SudiptaRoy05&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
