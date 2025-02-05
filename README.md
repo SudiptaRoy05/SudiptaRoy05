@@ -48,4 +48,7 @@ Hi! I'm **Sudipta Roy Ballave**, a passionate **Web Developer** from Bangladesh.
 <!-- <div align="center">
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?username=SudiptaRoy05&card_height=170" alt="GitHub Streak" /></a>
 </div> -->
+
+[![GitHub Streak](https://git.io/streak-stats?username=SudiptaRoy05&card_height=170)](https://git.io/streak-stats)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?username=SudiptaRoy05&card_height=170)](https://git.io/streak-stats)
