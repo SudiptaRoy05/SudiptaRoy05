@@ -1,6 +1,6 @@
 
 
-![Banner](https://i.ibb.co.com/tT3c1S42/Banner.png)
+![Banner](https://i.ibb.co.com/cq7ydFq/Whats-App-Image-2025-02-05-at-11-14-59-AM.jpg)
   
 # 🌟 Sudipta Roy Ballave | Web Developer
   
