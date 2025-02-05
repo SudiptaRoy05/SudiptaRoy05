@@ -50,12 +50,3 @@ Hi! I'm **Sudipta Roy Ballave**, a passionate **Web Developer** from Bangladesh.
     <img src="https://streak-stats.demolab.com?user=SudiptaRoy05&card_height=170" alt="GitHub Streak">
 </a>
 </div>
-
-## 📊 GitHub Stats  
-
-![Sudipta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github&theme=tokyonight)  
-
----
-
