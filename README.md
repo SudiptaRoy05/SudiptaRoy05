@@ -1,5 +1,5 @@
 <div align="center">
-    <img height="250" src="https://i.ibb.co.com/cq7ydFq/Whats-App-Image-2025-02-05-at-11-14-59-AM.jpg"  />
+    <img height="250" src="https://i.ibb.co/cq7ydFq/Whats-App-Image-2025-02-05-at-11-14-59-AM.jpg" />
 </div>
   
 # 🌟 Sudipta Roy Ballave | Web Developer
@@ -42,15 +42,10 @@ Hi! I'm **Sudipta Roy Ballave**, a passionate **Web Developer** from Bangladesh.
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SudiptaRoy05&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SudiptaRoy05&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SudiptaRoy05&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=SudiptaRoy05&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=SudiptaRoy05&theme=dracula" 
        alt="GitHub Streak" />
 </div>
-
-
-
-
-
