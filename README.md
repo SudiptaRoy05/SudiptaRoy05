@@ -50,6 +50,3 @@ Hi! I'm **Sudipta Roy Ballave**, a passionate **Web Developer** from Bangladesh.
 </div>
 
 
----
-
-✨ **Fun Fact:** I talk to my code like it's a person—sometimes it even listens! 😆 Also, I add `console.log()` everywhere and then forget to remove it!
