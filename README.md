@@ -1,7 +1,11 @@
-<div align="center">
+<div style="text-align: left;">
     <img height="250" src="https://i.ibb.co/cq7ydFq/Whats-App-Image-2025-02-05-at-11-14-59-AM.jpg" />
+    <section>
+        <p>Email: ballavesudipta@gmail.com</p>
+        <p>Phone: 01580311924</p>
+    </section>
 </div>
-  
+
 # 🌟 Sudipta Roy Ballave | Web Developer
   
 ## 👋 About Me
